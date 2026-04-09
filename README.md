@@ -1,1 +1,1 @@
-<img src="./banner.png" alt="Jenna Zawaski Banner" width="100%" />
+<img src="./banner.png.png" alt="Jenna Zawaski Banner" width="100%" />
