@@ -5,72 +5,126 @@
 
 <br />
 
-# Hi, I'm Jenna Zawaski
+# Hi, I'm Jenna Zawaski 👋
 
-**President & CEO, CodeHerWay**  
-**Frontend Developer | UX Engineer**
+### Frontend Developer | UX Engineer | President & CEO of CodeHerWay
 
-I build modern, intentional web experiences that combine clean design, motion, and real-world usability. My work focuses on bridging the gap between learning code and building systems that actually matter.
+I build modern, intentional web experiences that combine clean design, thoughtful motion, and real-world usability.
 
-🚀 What I Do
-💻 Build responsive, high-performance frontend applications
-🎨 Design clean, user-centered interfaces
-⚡ Create motion-driven experiences using GSAP & WebGL
-🧠 Think in systems, not just components
-🧩 Current Focus
-Expanding my CodeHerWay platform
-Deepening my expertise in JavaScript and React
-Building AI-driven learning experiences
-Designing products that move users from learning → real-world application
-🛠️ Tech Stack
+My work focuses on creating frontend systems that do more than look good. I care about how products feel, how people move through them, and how code can support learning, clarity, and meaningful user experiences.
 
-Frontend:
+Currently, I’m building **CodeHerWay**, a learning platform designed to help women move from coding basics to real-world application.
 
-HTML5, CSS3, JavaScript (ES6+)
-React (in progress)
+---
 
-Tools & Libraries:
+## 🚀 What I Do
 
-GSAP (ScrollTrigger)
-Three.js (WebGL)
-Git & GitHub
+- Build responsive, high-performance frontend applications
+- Design clean, user-centered interfaces
+- Create motion-driven experiences with GSAP and WebGL
+- Think in systems, not just individual components
+- Turn learning experiences into structured, usable products
 
-Currently Exploring:
+---
 
-AI engineering & orchestration
-Supabase & backend integration
-🌐 Featured Projects
-🎬 Portfolio Website
+## 🧩 Current Focus
 
-A cinematic, motion-driven portfolio showcasing my work and frontend capabilities
-🔗 https://itcodegirl.github.io/itcodegirl-portfolio/
+I’m currently focused on:
 
-🧠 CodeHerWay Platform
+- Expanding the CodeHerWay platform
+- Deepening my JavaScript and React skills
+- Building AI-driven learning experiences
+- Designing products that help users move from learning to application
+- Creating polished, portfolio-quality frontend projects
 
-A learning ecosystem designed to help women move from coding basics to real-world impact
+---
 
-🚀 Education Platform
+## 🛠️ Tech Stack
 
-A structured system for teaching coding through progressive, interactive learning
+### Frontend
 
-🌦️ Weather Dashboard
+- HTML5
+- CSS3
+- JavaScript ES6+
+- React
 
-A clean, API-driven app demonstrating real-time data handling and UI clarity
+### Tools & Libraries
 
-💡 How I Think
+- GSAP
+- ScrollTrigger
+- Three.js
+- WebGL
+- Git
+- GitHub
+
+### Currently Exploring
+
+- AI engineering
+- AI orchestration
+- Supabase
+- Backend integration
+- Full-stack product architecture
+
+---
+
+## 🌐 Featured Projects
+
+### 🎬 Portfolio Website
+
+A cinematic, motion-driven portfolio showcasing my frontend development, design thinking, and interactive web capabilities.
+
+🔗 [View Project](https://itcodegirl.github.io/itcodegirl-portfolio/)
+
+---
+
+### 🧠 CodeHerWay Platform
+
+A learning ecosystem designed to help women move from coding basics to real-world impact through structured, project-based learning.
+
+---
+
+### 🚀 Education Platform
+
+A progressive learning system for teaching coding concepts through interactive lessons, guided practice, and real-world application.
+
+---
+
+### 🌦️ Weather Dashboard
+
+A clean, API-driven application focused on real-time data, responsive design, and clear user interface patterns.
+
+---
+
+## 💡 How I Think
 
 I’m not just focused on writing code.
+
 I’m focused on building systems that:
 
-Scale beyond a single project
-Help people learn and grow
-Solve real problems with thoughtful design
-📈 What I'm Working Toward
-A frontend developer role where I can contribute to real products
-Growing CodeHerWay into a scalable platform
-Building advanced, interactive web experiences
-🤝 Let’s Connect
-GitHub: https://github.com/itcodegirl
-Portfolio: https://itcodegirl.github.io/itcodegirl-portfolio/
+- Scale beyond a single project
+- Help people learn and grow
+- Solve real problems with thoughtful design
+- Balance visual polish with usability
+- Turn ideas into practical, working products
 
-"Because when women CodeHerWay, the whole system upgrades." ✨
+---
+
+## 📈 What I'm Working Toward
+
+My goals are to:
+
+- Land a frontend developer role where I can contribute to real products
+- Grow CodeHerWay into a scalable learning platform
+- Build advanced, interactive web experiences
+- Continue developing as a frontend developer, UX engineer, and product-minded builder
+
+---
+
+## 🤝 Let's Connect
+
+- GitHub: [github.com/itcodegirl](https://github.com/itcodegirl)
+- Portfolio: [itcodegirl.github.io/itcodegirl-portfolio](https://itcodegirl.github.io/itcodegirl-portfolio/)
+
+---
+
+> "Because when women CodeHerWay, the whole system upgrades." ✨
