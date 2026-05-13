@@ -1,13 +1,13 @@
 
 <p align="center">
-  <img src="./banner.png" alt="Jenna Zawaski Banner" width="100%" />
+  <img src="./website_head.png" alt="Jenna Zawaski Banner" width="100%" />
 </p>
 
 <br />
 
 # Hi, I'm Jenna Zawaski 👋
 
-### Frontend Developer | UX Engineer | President & CEO of CodeHerWay
+### Frontend Developer | UX Engineer | Founder of CodeHerWay
 
 I build modern, intentional web experiences that combine clean design, thoughtful motion, and real-world usability.
 
@@ -116,7 +116,7 @@ My goals are to:
 - Land a frontend developer role where I can contribute to real products
 - Grow CodeHerWay into a scalable learning platform
 - Build advanced, interactive web experiences
-- Continue developing as a frontend developer, UX engineer, and product-minded builder
+- Continue developing as a frontend developer, UUI/UX engineer, and product-minded builder
 
 ---
 
