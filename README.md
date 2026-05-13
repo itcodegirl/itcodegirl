@@ -46,7 +46,7 @@ I’m currently focused on:
 - HTML5
 - CSS3
 - JavaScript ES6+
-- React
+- React (in progress)
 
 ### Tools & Libraries
 
@@ -71,7 +71,7 @@ I’m currently focused on:
 
 ### 🎬 Portfolio Website
 
-A cinematic, motion-driven portfolio showcasing my frontend development, design thinking, and interactive web capabilities.
+My portfolio showcasing my frontend development, design thinking, and interactive web capabilities.
 
 🔗 [View Project](https://itcodegirl.github.io/itcodegirl-portfolio/)
 
